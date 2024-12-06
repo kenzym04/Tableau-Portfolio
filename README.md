@@ -54,6 +54,4 @@ While I cannot share NDA-protected work, the repositories on this GitHub showcas
 ## Let’s Connect  
 Feel free to explore my GitHub repositories, or reach out to discuss how I can bring value to your projects.  
 
----  
-
-Let me know if you'd like any further adjustments!
+--- 
